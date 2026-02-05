@@ -1,0 +1,89 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BanubaGenAIVideos
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+import AVFoundation
+import Accelerate
+@_exported import BanubaGenAIVideos
+import BanubaLicenseServicingSDK
+import BanubaUtilities
+import BanubaVideoEditorCore
+import Combine
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers @objc public class Session : ObjectiveC.NSObject {
+  @objc public enum GenerationState : Swift.Int, Swift.Codable, Swift.Hashable {
+    case inProgress
+    case failed
+    case done
+    #if compiler(>=5.3) && $NonescapableTypes
+    public init?(rawValue: Swift.Int)
+    #endif
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public var preview: UIKit.UIImage? {
+    @objc get
+  }
+  #endif
+  @objc public var audioURL: Foundation.URL {
+    @objc get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public var resultVideoURL: Foundation.URL? {
+    @objc get
+  }
+  #endif
+  @objc public var state: BanubaGenAIVideos.Session.GenerationState {
+    @objc get
+  }
+  @objc deinit
+}
+@objc public protocol BanubaGenAIVideosDelegate {
+  @objc func didClose(_ sdk: BanubaGenAIVideos.BanubaGenAIVideosSDK)
+  @objc func didAddNewSession(_ sdk: BanubaGenAIVideos.BanubaGenAIVideosSDK)
+  @objc func sdk(_ sdk: BanubaGenAIVideos.BanubaGenAIVideosSDK, didSelect session: BanubaGenAIVideos.Session)
+  @objc func didRequestHomeScreen(_ sdk: BanubaGenAIVideos.BanubaGenAIVideosSDK)
+  @objc func sdk(_ sdk: BanubaGenAIVideos.BanubaGenAIVideosSDK, didShareToFeed session: BanubaGenAIVideos.Session)
+}
+@objc public enum EntryPoint : Swift.Int {
+  case gallery = 0
+  case generatedVideos
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.Int)
+  #endif
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public class BanubaGenAIVideosSDK : ObjectiveC.NSObject {
+  @objc weak public var delegate: (any BanubaGenAIVideos.BanubaGenAIVideosDelegate)?
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public init?(token: Swift.String, genAISecret: Swift.String, externalUserId: Swift.String? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public func present(targetViewController: UIKit.UIViewController, _ completion: (() -> Swift.Void)? = nil)
+  #endif
+  @objc public func getRootController(entryPoint: BanubaGenAIVideos.EntryPoint, isTimelineTarget: Swift.Bool) -> UIKit.UINavigationController
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public func dismiss(_ completion: (() -> Swift.Void)? = nil)
+  #endif
+  @objc public func getSessions() -> [BanubaGenAIVideos.Session]
+  @objc public func hasActiveGeneration() -> Swift.Bool
+  @objc public func cancelActiveGeneration()
+  @objc deinit
+}
+extension BanubaGenAIVideos.Session.GenerationState : Swift.RawRepresentable {}
+extension BanubaGenAIVideos.EntryPoint : Swift.Equatable {}
+extension BanubaGenAIVideos.EntryPoint : Swift.Hashable {}
+extension BanubaGenAIVideos.EntryPoint : Swift.RawRepresentable {}

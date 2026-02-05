@@ -1,0 +1,11 @@
+framework module BanubaGenAIVideos {
+  umbrella header "BanubaGenAIVideos.h"
+  export *
+
+  module * { export * }
+}
+
+module BanubaGenAIVideos.Swift {
+  header "BanubaGenAIVideos-Swift.h"
+  requires objc
+}
