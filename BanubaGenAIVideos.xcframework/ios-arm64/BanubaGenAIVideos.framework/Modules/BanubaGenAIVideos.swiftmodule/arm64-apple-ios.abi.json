@@ -2337,1792 +2337,1799 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 194,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 203,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 214,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/InsetLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 224,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/StepNavBar.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Components\/StepNavBar.swift",
       "kind": "IntegerLiteral",
       "offset": 369,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 318,
-      "length": 31,
-      "value": "\"https:\/\/ai.banuba.net\/auth\/v1\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 396,
-      "length": 30,
-      "value": "\"https:\/\/ai.banuba.net\/api\/v1\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "BooleanLiteral",
-      "offset": 537,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 842,
-      "length": 14,
-      "value": "\"access_token\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 880,
-      "length": 12,
-      "value": "\"expires_in\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 916,
-      "length": 12,
-      "value": "\"expires_at\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 1095,
-      "length": 14,
-      "value": "\"content_type\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 1302,
-      "length": 12,
-      "value": "\"upload_url\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 2098,
-      "length": 14,
-      "value": "\"content_type\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 2140,
-      "length": 17,
-      "value": "\"result_file_url\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 2445,
-      "length": 12,
-      "value": "\"created_at\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "StringLiteral",
-      "offset": 2481,
-      "length": 12,
-      "value": "\"updated_at\""
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2879,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
       "kind": "IntegerLiteral",
-      "offset": 5524,
+      "offset": 304,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
       "kind": "StringLiteral",
-      "offset": 6203,
-      "length": 5,
-      "value": "\"GET\""
+      "offset": 1527,
+      "length": 31,
+      "value": "\"https:\/\/ai.banuba.net\/auth\/v1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
-      "kind": "Dictionary",
-      "offset": 489,
-      "length": 3,
-      "value": "[]"
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 1605,
+      "length": 30,
+      "value": "\"https:\/\/ai.banuba.net\/api\/v1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
-      "kind": "Dictionary",
-      "offset": 560,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
       "kind": "BooleanLiteral",
-      "offset": 648,
+      "offset": 1713,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
       "kind": "StringLiteral",
-      "offset": 701,
+      "offset": 2018,
+      "length": 14,
+      "value": "\"access_token\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 2056,
+      "length": 12,
+      "value": "\"expires_in\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 2092,
+      "length": 12,
+      "value": "\"expires_at\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 2271,
+      "length": 14,
+      "value": "\"content_type\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 2478,
+      "length": 12,
+      "value": "\"upload_url\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 3274,
+      "length": 14,
+      "value": "\"content_type\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 3316,
+      "length": 17,
+      "value": "\"result_file_url\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 3621,
+      "length": 12,
+      "value": "\"created_at\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 3657,
+      "length": 12,
+      "value": "\"updated_at\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4055,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/API.swift",
+      "kind": "StringLiteral",
+      "offset": 7191,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "kind": "Dictionary",
+      "offset": 483,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "kind": "Dictionary",
+      "offset": 554,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 692,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 825,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
       "length": 26,
       "value": "\"com.banuba.genvideo.sync\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
       "kind": "IntegerLiteral",
       "offset": 220,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
       "kind": "IntegerLiteral",
       "offset": 236,
       "length": 4,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 21,
       "value": "\"com.banuba.genvideo\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
       "offset": 624,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
       "offset": 2499,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
       "offset": 2615,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
       "offset": 3165,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
       "offset": 3205,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
       "offset": 3397,
       "length": 101,
       "value": "\"[SessionsManager] Failed to restore session from: \""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
       "offset": 3487,
       "length": 1,
       "value": "\", skipping\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
       "offset": 3678,
       "length": 94,
       "value": "\"[SessionsManager] Invalid session found: \""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
       "offset": 3758,
       "length": 1,
       "value": "\", removing...\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSelectionStateInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSelectionStateInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 316,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 277,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 600,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 874,
       "length": 25,
       "value": "\"Place your phone closer\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 974,
       "length": 20,
       "value": "\"Find a quiet place\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 1094,
       "length": 23,
       "value": "\"15 seconds limitation\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 1238,
       "length": 27,
       "value": "\"Audio *.mp3, *.wma, *.wav\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 1339,
       "length": 34,
       "value": "\"Video *.mp4, *.mov, *.avi, *.mkv\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 1447,
       "length": 23,
       "value": "\"File size up to 50 MB\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1631,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1734,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1943,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "FloatLiteral",
       "offset": 2143,
       "length": 4,
       "value": "13.5"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 2185,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 2426,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 2517,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 2917,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "FloatLiteral",
       "offset": 3166,
       "length": 4,
       "value": "77.5"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 3260,
       "length": 3,
       "value": "-15"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceSegmentedControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceSegmentedControl.swift",
       "kind": "Array",
       "offset": 334,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioWavesView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioWavesView.swift",
       "kind": "IntegerLiteral",
       "offset": 387,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioWavesView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioWavesView.swift",
       "kind": "Array",
       "offset": 424,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "BooleanLiteral",
       "offset": 355,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "FloatLiteral",
       "offset": 403,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "FloatLiteral",
       "offset": 447,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "FloatLiteral",
       "offset": 558,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "IntegerLiteral",
       "offset": 710,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "BooleanLiteral",
       "offset": 812,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "IntegerLiteral",
       "offset": 952,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "FloatLiteral",
       "offset": 1022,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "BooleanLiteral",
       "offset": 1081,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/ProgressControl.swift",
       "kind": "FloatLiteral",
       "offset": 1317,
       "length": 5,
       "value": "100.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/RecordVoiceButton.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/RecordVoiceButton.swift",
       "kind": "FloatLiteral",
       "offset": 222,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/RecordVoiceButton.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/RecordVoiceButton.swift",
       "kind": "FloatLiteral",
       "offset": 270,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "BooleanLiteral",
       "offset": 221,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "BooleanLiteral",
       "offset": 430,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "BooleanLiteral",
       "offset": 619,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "IntegerLiteral",
       "offset": 872,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "IntegerLiteral",
       "offset": 885,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "IntegerLiteral",
       "offset": 897,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimControl.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "Array",
       "offset": 361,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 1690,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 1848,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2006,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2036,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2089,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2154,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2322,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "IntegerLiteral",
       "offset": 2404,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2578,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2726,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 2789,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "IntegerLiteral",
       "offset": 2839,
       "length": 8,
       "value": "0x2AB14A"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "FloatLiteral",
       "offset": 2937,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 3075,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "BooleanLiteral",
       "offset": 3137,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/TrimView.swift",
       "kind": "FloatLiteral",
       "offset": 3206,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 314,
       "length": 4,
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1025,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1253,
       "length": 27,
       "value": "\"Choose audio source track\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1300,
       "length": 49,
       "value": "\"Your avatar will play the selected audio track.\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1372,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1443,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1653,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 2096,
       "length": 6,
       "value": "\"Next\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "Array",
       "offset": 2232,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 17059,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 17220,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 17472,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 17653,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
       "offset": 17792,
       "length": 4,
       "value": "13.5"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 17832,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
       "offset": 17894,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 17972,
       "length": 17,
       "value": "\"Start Recording\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
       "kind": "StringLiteral",
       "offset": 568,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
       "kind": "BooleanLiteral",
       "offset": 660,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotoPreview\/PhotoPreviewController.swift",
       "kind": "BooleanLiteral",
       "offset": 952,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2639,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 525,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 561,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "StringLiteral",
       "offset": 1347,
       "length": 19,
       "value": "\"shared_cross_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1440,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1774,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1845,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2116,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2185,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2273,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2408,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2467,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2510,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2569,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2864,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/Gallery\/PhotosGallery\/GalleryViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2914,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 746,
       "length": 2,
       "value": "11"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 828,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 887,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1041,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1099,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1125,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1298,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1396,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1433,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1463,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
       "kind": "BooleanLiteral",
       "offset": 1369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
       "kind": "BooleanLiteral",
       "offset": 1926,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
       "offset": 580,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 672,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 941,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
       "offset": 978,
       "length": 5,
       "value": "-0.43"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
       "offset": 1091,
       "length": 17,
       "value": "\"Generated Video\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1204,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1474,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1543,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1794,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1831,
       "length": 5,
       "value": "-0.43"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1895,
       "length": 4,
       "value": "0.64"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
       "offset": 1969,
       "length": 10,
       "value": "\"No Items\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2075,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
       "offset": 2159,
       "length": 18,
       "value": "\"Create New Video\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2310,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2364,
       "length": 4,
       "value": "0.64"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2407,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2489,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
       "offset": 2508,
       "length": 20,
       "value": "\"10 Generation Left\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 9089,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 9125,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
       "offset": 9171,
       "length": 4,
       "value": "12.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "StringLiteral",
       "offset": 507,
       "length": 19,
       "value": "\"shared_cross_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 813,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "FloatLiteral",
       "offset": 918,
       "length": 5,
       "value": "-0.43"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1113,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "Array",
       "offset": 1793,
       "length": 58,
       "value": "[\"suitable_1\", \"suitable_2\", \"suitable_3\"]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "Array",
       "offset": 1890,
       "length": 67,
       "value": "[\"nonsuitable_1\", \"nonsuitable_2\", \"nonsuitable_3\"]"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "StringLiteral",
       "offset": 2012,
       "length": 24,
       "value": "\"tutorial_suitable_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PhotoGuidlines\/PhotoGuidelinesViewController.swift",
       "kind": "StringLiteral",
       "offset": 2068,
       "length": 27,
       "value": "\"tutorial_nonsuitable_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoInteractor.swift",
       "kind": "BooleanLiteral",
       "offset": 391,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
       "offset": 748,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 840,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1129,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1169,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1178,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1190,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1200,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1241,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1379,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1550,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2367,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2428,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
       "offset": 2520,
       "length": 16,
       "value": "\"Save on Device\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
       "offset": 2707,
       "length": 17,
       "value": "\"Add to Timeline\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
       "offset": 2727,
       "length": 22,
       "value": "\"Open in Video Editor\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
       "offset": 2820,
       "length": 15,
       "value": "\"Share to Feed\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 305,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 309,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 516,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 630,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 688,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 780,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1010,
       "length": 17,
       "value": "\"Choose a prompt\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1047,
       "length": 46,
       "value": "\"Determine the details to generate your video\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1116,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1187,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1460,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1668,
       "length": 16,
       "value": "\"Generate Video\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1817,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1871,
       "length": 4,
       "value": "0.64"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1914,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1996,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 2015,
       "length": 20,
       "value": "\"10 Generation Left\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 5878,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 5915,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 364,
       "length": 4,
       "value": "60.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 412,
       "length": 4,
       "value": "0.99"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 475,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 481,
       "length": 4,
       "value": "60.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressInteractor.swift",
       "kind": "FloatLiteral",
       "offset": 572,
       "length": 4,
       "value": "60.0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 779,
       "length": 8,
       "value": "0x333333"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
       "offset": 808,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 956,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1002,
       "length": 8,
       "value": "0x1F1F1F"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1031,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "StringLiteral",
       "offset": 1214,
       "length": 52,
       "value": "\"Your video is on the way, it may take some minutes\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1322,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1401,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1475,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1625,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1732,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1798,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "StringLiteral",
       "offset": 1898,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "StringLiteral",
       "offset": 1975,
       "length": 16,
       "value": "\"Return to Home\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "IntegerLiteral",
       "offset": 611,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andreysak\/Developer\/Banuba\/ve_sdk_ios_2023\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "IntegerLiteral",
       "offset": 620,
       "length": 15,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 28,
       "value": "\"Generated Videos\/dots_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1025,
       "length": 18,
       "value": "\"fileInstruction1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1185,
       "length": 18,
       "value": "\"fileInstruction2\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1345,
       "length": 18,
       "value": "\"fileInstruction3\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1489,
       "length": 10,
       "value": "\"friendly\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1635,
       "length": 15,
       "value": "\"musicFileIcon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1785,
       "length": 15,
       "value": "\"nonsuitable_1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1935,
       "length": 15,
       "value": "\"nonsuitable_2\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2085,
       "length": 15,
       "value": "\"nonsuitable_3\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2220,
       "length": 7,
       "value": "\"pitch\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2360,
       "length": 14,
       "value": "\"player_pause\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2505,
       "length": 13,
       "value": "\"player_play\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2652,
       "length": 14,
       "value": "\"professional\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2806,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2966,
       "length": 19,
       "value": "\"shared_cross_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3114,
       "length": 12,
       "value": "\"suitable_1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3255,
       "length": 12,
       "value": "\"suitable_2\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3396,
       "length": 12,
       "value": "\"suitable_3\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3534,
       "length": 10,
       "value": "\"trimIcon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3702,
       "length": 27,
       "value": "\"tutorial_nonsuitable_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3881,
       "length": 24,
       "value": "\"tutorial_suitable_icon\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4049,
       "length": 19,
       "value": "\"voiceInstruction1\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4212,
       "length": 19,
       "value": "\"voiceInstruction2\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4375,
       "length": 19,
       "value": "\"voiceInstruction3\""
     },
     {
-      "filePath": "\/Users\/andreysak\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-eqezbllecmxhkvalesvwdjdkkcdx\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphoneos\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4540,
       "length": 20,
