@@ -307,12 +307,18 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class BanubaGenAIVideosSDK;
 @class Session;
+/// Delegate for Gen AI Videos SDK lifecycle and user actions.
 SWIFT_PROTOCOL("_TtP17BanubaGenAIVideos25BanubaGenAIVideosDelegate_")
 @protocol BanubaGenAIVideosDelegate
+/// Called when user closes the Gen AI flow.
 - (void)didClose:(BanubaGenAIVideosSDK * _Nonnull)sdk;
+/// Called when user starts a new generation session.
 - (void)didAddNewSession:(BanubaGenAIVideosSDK * _Nonnull)sdk;
+/// Called when user selects a completed video.
 - (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didSelect:(Session * _Nonnull)session;
+/// Called when user requests navigation to home (generated videos list).
 - (void)didRequestHomeScreen:(BanubaGenAIVideosSDK * _Nonnull)sdk;
+/// Called when user shares a video to feed.
 - (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didShareToFeed:(Session * _Nonnull)session;
 @end
 
@@ -320,8 +326,10 @@ SWIFT_PROTOCOL("_TtP17BanubaGenAIVideos25BanubaGenAIVideosDelegate_")
 @class UIViewController;
 enum EntryPoint : NSInteger;
 @class UINavigationController;
+/// SDK for Gen AI avatar video generation flow (record voice, pick image, generate video).
 SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 @interface BanubaGenAIVideosSDK : NSObject
+/// Receives lifecycle and user action callbacks.
 @property (nonatomic, weak) id <BanubaGenAIVideosDelegate> _Nullable delegate;
 /// \param token Banuba video editor license token
 ///
@@ -330,18 +338,45 @@ SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 /// \param externalUserId Optional string identifying the user, embedded in the AI API access token. Omit to skip.
 ///
 - (nullable instancetype)initWithToken:(NSString * _Nonnull)token genAISecret:(NSString * _Nonnull)genAISecret externalUserId:(NSString * _Nullable)externalUserId OBJC_DESIGNATED_INITIALIZER;
+/// Presents the Gen AI flow modally starting from the generated videos list.
+/// \param targetViewController View controller to present from.
+///
+/// \param completion Called when presentation animation finishes.
+///
 - (void)presentWithTargetViewController:(UIViewController * _Nonnull)targetViewController :(void (^ _Nullable)(void))completion;
+/// Returns a navigation controller with the Gen AI flow for embedding (e.g. in a tab or custom container).
+/// \param entryPoint Starting screen (gallery or generated videos list).
+///
+/// \param isTimelineTarget Whether the flow should target the video editor timeline.
+///
+///
+/// returns:
+/// Navigation controller containing the Gen AI flow.
 - (UINavigationController * _Nonnull)getRootControllerWithEntryPoint:(enum EntryPoint)entryPoint isTimelineTarget:(BOOL)isTimelineTarget SWIFT_WARN_UNUSED_RESULT;
+/// Clears root coordinator synchronously on main thread. Safe to call from any thread, including deinit.
+/// Uses sync dispatch when not on main to avoid race where deinit completes before the clear runs.
+- (void)didDismissRootController;
+/// Dismisses the presented Gen AI flow.
+/// \param completion Called when dismiss animation finishes.
+///
 - (void)dismiss:(void (^ _Nullable)(void))completion;
+/// Returns all generation sessions (from active coordinator or fresh load).
+///
+/// returns:
+/// Array of sessions.
 - (NSArray<Session *> * _Nonnull)getSessions SWIFT_WARN_UNUSED_RESULT;
-/// Check if there are active generation operations
+/// Returns whether there are active generation operations (upload or polling).
+///
+/// returns:
+/// <code>true</code> if any session is uploading or waiting for completion.
 - (BOOL)hasActiveGeneration SWIFT_WARN_UNUSED_RESULT;
-/// Cancel active generation session
+/// Cancels the currently active generation session (upload or polling).
 - (void)cancelActiveGeneration;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+/// Entry point for the Gen AI flow.
 typedef SWIFT_ENUM(NSInteger, EntryPoint, open) {
   EntryPointGallery = 0,
   EntryPointGeneratedVideos = 1,

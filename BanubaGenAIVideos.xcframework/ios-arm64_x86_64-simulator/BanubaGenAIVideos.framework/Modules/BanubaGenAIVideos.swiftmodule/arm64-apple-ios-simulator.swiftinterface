@@ -11,6 +11,7 @@ import BanubaVideoEditorCore
 import Combine
 import DeveloperToolsSupport
 import Foundation
+import Security
 import Swift
 import SwiftUI
 import UIKit
@@ -72,13 +73,14 @@ import _SwiftConcurrencyShims
   @objc public init?(token: Swift.String, genAISecret: Swift.String, externalUserId: Swift.String? = nil)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  @objc public func present(targetViewController: UIKit.UIViewController, _ completion: (() -> Swift.Void)? = nil)
+  @_Concurrency.MainActor @objc public func present(targetViewController: UIKit.UIViewController, _ completion: (() -> Swift.Void)? = nil)
   #endif
-  @objc public func getRootController(entryPoint: BanubaGenAIVideos.EntryPoint, isTimelineTarget: Swift.Bool) -> UIKit.UINavigationController
+  @_Concurrency.MainActor @objc public func getRootController(entryPoint: BanubaGenAIVideos.EntryPoint, isTimelineTarget: Swift.Bool) -> UIKit.UINavigationController
+  @objc public func didDismissRootController()
   #if compiler(>=5.3) && $NonescapableTypes
-  @objc public func dismiss(_ completion: (() -> Swift.Void)? = nil)
+  @_Concurrency.MainActor @objc public func dismiss(_ completion: (() -> Swift.Void)? = nil)
   #endif
-  @objc public func getSessions() -> [BanubaGenAIVideos.Session]
+  @_Concurrency.MainActor @objc public func getSessions() -> [BanubaGenAIVideos.Session]
   @objc public func hasActiveGeneration() -> Swift.Bool
   @objc public func cancelActiveGeneration()
   @objc deinit
