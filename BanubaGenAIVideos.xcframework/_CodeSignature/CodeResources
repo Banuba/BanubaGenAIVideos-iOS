@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/BanubaGenAIVideos</key>
 		<data>
-		Mi0biFOHombfyDbeh5wcsQMQqbw=
+		6vDrnccjx+SexpBf6ZPZV/DUb0U=
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Info.plist</key>
 		<data>
-		KZjRd3Sp0dXawV99xzEQzayVU4s=
+		yXodyMj5IevXiFZc761JZCeHZv0=
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		dB0WqHiVnMl5LXfLFPzqsOBb680=
+		64yktJ622pdfmTb5dEzZFHyTZ20=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<data>
-		x/vgthMJdjK+J00Jco2LssAThuM=
+		V1d4Bps7Hwmi2D5H2GxyAftgPBE=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/BanubaGenAIVideos</key>
 		<data>
-		JUvI2nuSv0Kjj63PqBQEdL7ZEWY=
+		lzft40Jjn1pQx6xjGnurrZN+Ldw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Info.plist</key>
 		<data>
-		lgEZWEDXUMs+jW9k6MxE4waoR7A=
+		IbZcWxiq7k1bY9IZb/FY3ydjwqg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -130,15 +130,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/_CodeSignature/CodeResources</key>
 		<data>
-		vWoKQeGSKOPhjO0cAOcVMDsURDM=
+		DMq1rQaaA/qCPwlH+IkBxIFJOb8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		dB0WqHiVnMl5LXfLFPzqsOBb680=
+		64yktJ622pdfmTb5dEzZFHyTZ20=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<data>
-		86gqE4XaVef9//1DBib7TclPXh0=
+		XRHOBMLkIey1FS7Q+szFBXaW/l0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<data>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			94tJgTsSrgN6FVfNxhOxyJnMrSxSRHfvZlKbyJH4q/I=
+			4WHMrRUw58xnOZ8S/ocSVwj5Ype4VHPrIHzLp1TyPOg=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NIBTG1VAouddIqlrX3FyETJWEHMvxzL6i/lF2xqOEiY=
+			ppFiypSD0WEfFWjU++pjp14uGnw4a7wlrZ7A8S68mj4=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -239,14 +239,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sq6CVCCPFIn/rF8VOt5mg8K1ocwRsae64lhPVulpqZE=
+			Ilsddownpx8tjakRqYoylCJPhk+C2p58E7jrYBk6PK8=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ni8Nw11JS57NINEkPhrtAdTmfWSsc9Q5jjLubyLUbDQ=
+			FvBnR7Vu7/AjGD4a8qvQAghqca32xpajAbtYTnmqv7I=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
@@ -267,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wMtfinQCwS9JPejG+v3+u61A63apTyNYCzXKDIyA5xI=
+			15/QjDo0poIE6MkdlVMegIZ7HqEEfqPiMiB24l8WGuE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
@@ -295,7 +295,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9SRXvY+h9LdAIz7w4YgJrD1BkwECCu9oH1NbAK9TkqM=
+			gRcOaonBhJ5MJI+OIST1mA5WKOq3klJZFh0NQj1MNAg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -372,21 +372,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ai/7o+/BCPK/hyVm0htOirlswgHGPU2hGURk8elzvGo=
+			lrKUx4qRiiFF3eoG/UvDRZB2qLiTMHHOQ5p8qsMu2Ic=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sq6CVCCPFIn/rF8VOt5mg8K1ocwRsae64lhPVulpqZE=
+			Ilsddownpx8tjakRqYoylCJPhk+C2p58E7jrYBk6PK8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6GU5fQUDHSjJ6cpOh20r59c191rGjEe/8RPTUrT0qbM=
+			jInS7ehbYRcLmLqc/xikpscOavCxnekgm0NvO3cI7SE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
