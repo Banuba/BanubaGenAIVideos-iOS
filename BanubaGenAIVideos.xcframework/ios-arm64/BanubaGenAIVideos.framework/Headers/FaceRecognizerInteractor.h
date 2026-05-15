@@ -8,6 +8,7 @@ __attribute__((weak_import)) @interface FaceRecognizerInteractor : NSObject
 
 + (BOOL)isFrameworkAvailable;
 
+- (instancetype)init NS_UNAVAILABLE;
 - (nonnull instancetype)initWithToken:(NSString *)token;
 - (NSInteger)getNumberOfFacesAtImage: (UIImage *)image;
 

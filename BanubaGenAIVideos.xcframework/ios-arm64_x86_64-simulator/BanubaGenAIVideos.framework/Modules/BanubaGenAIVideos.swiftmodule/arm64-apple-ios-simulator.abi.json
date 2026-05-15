@@ -97,6 +97,13 @@
       },
       {
         "kind": "Import",
+        "name": "BanubaLicenseServicingSDK",
+        "printedName": "BanubaLicenseServicingSDK",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
@@ -124,26 +131,6 @@
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
-        "moduleName": "BanubaGenAIVideos",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaGenAIVideos",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "BanubaUtilities",
-        "printedName": "BanubaUtilities",
-        "declKind": "Import",
         "moduleName": "BanubaGenAIVideos"
       },
       {
@@ -155,35 +142,11 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaGenAIVideos"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaGenAIVideos",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Security",
-        "printedName": "Security",
-        "declKind": "Import",
-        "moduleName": "BanubaGenAIVideos"
       },
       {
         "kind": "TypeDecl",
-        "name": "Session",
-        "printedName": "Session",
+        "name": "BanubaGenAIVideoSession",
+        "printedName": "BanubaGenAIVideoSession",
         "children": [
           {
             "kind": "TypeDecl",
@@ -198,24 +161,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(BanubaGenAIVideos.Session.GenerationState.Type) -> BanubaGenAIVideos.Session.GenerationState",
+                    "printedName": "(BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type) -> BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "GenerationState",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                        "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                        "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState.Type",
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "GenerationState",
-                            "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                            "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                            "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                            "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                           }
                         ]
                       }
@@ -223,8 +186,8 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO10inProgressyA2EmF",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO10inProgressyA2EmF",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO10inProgressyA2EmF",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO10inProgressyA2EmF",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -239,24 +202,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(BanubaGenAIVideos.Session.GenerationState.Type) -> BanubaGenAIVideos.Session.GenerationState",
+                    "printedName": "(BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type) -> BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "GenerationState",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                        "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                        "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState.Type",
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "GenerationState",
-                            "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                            "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                            "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                            "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                           }
                         ]
                       }
@@ -264,8 +227,8 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO6failedyA2EmF",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO6failedyA2EmF",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO6failedyA2EmF",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO6failedyA2EmF",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -280,24 +243,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(BanubaGenAIVideos.Session.GenerationState.Type) -> BanubaGenAIVideos.Session.GenerationState",
+                    "printedName": "(BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type) -> BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "GenerationState",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                        "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                        "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState.Type",
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "GenerationState",
-                            "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                            "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                            "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                            "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                           }
                         ]
                       }
@@ -305,8 +268,8 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO4doneyA2EmF",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO4doneyA2EmF",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO4doneyA2EmF",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO4doneyA2EmF",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -321,13 +284,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "BanubaGenAIVideos.Session.GenerationState?",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "GenerationState",
-                        "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                        "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                        "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                       }
                     ],
                     "usr": "s:Sq"
@@ -340,8 +303,8 @@
                   }
                 ],
                 "declKind": "Constructor",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueAESgSi_tcfc",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueAESgSi_tcfc",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueAESgSi_tcfc",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueAESgSi_tcfc",
                 "moduleName": "BanubaGenAIVideos",
                 "implicit": true,
                 "init_kind": "Designated"
@@ -359,8 +322,8 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueSivp",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueSivp",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueSivp",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueSivp",
                 "moduleName": "BanubaGenAIVideos",
                 "implicit": true,
                 "accessors": [
@@ -377,8 +340,8 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueSivg",
-                    "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO8rawValueSivg",
+                    "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueSivg",
+                    "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO8rawValueSivg",
                     "moduleName": "BanubaGenAIVideos",
                     "implicit": true,
                     "accessorKind": "get"
@@ -387,8 +350,8 @@
               }
             ],
             "declKind": "Enum",
-            "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO",
-            "mangledName": "$s17BanubaGenAIVideos7SessionC15GenerationStateO",
+            "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
@@ -464,6 +427,138 @@
           },
           {
             "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)id",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC2idSSvp",
+            "moduleName": "BanubaGenAIVideos",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)id",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC2idSSvg",
+                "moduleName": "BanubaGenAIVideos",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "createdAt",
+            "printedName": "createdAt",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Date",
+                "printedName": "Foundation.Date",
+                "usr": "s:10Foundation4DateV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)createdAt",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC9createdAt10Foundation4DateVvp",
+            "moduleName": "BanubaGenAIVideos",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)createdAt",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC9createdAt10Foundation4DateVvg",
+                "moduleName": "BanubaGenAIVideos",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "prompt",
+            "printedName": "prompt",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)prompt",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC6promptSSvp",
+            "moduleName": "BanubaGenAIVideos",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)prompt",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC6promptSSvg",
+                "moduleName": "BanubaGenAIVideos",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "preview",
             "printedName": "preview",
             "children": [
@@ -483,8 +578,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(py)preview",
-            "mangledName": "$s17BanubaGenAIVideos7SessionC7previewSo7UIImageCSgvp",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)preview",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC7previewSo7UIImageCSgvp",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
@@ -512,8 +607,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(im)preview",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC7previewSo7UIImageCSgvg",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)preview",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC7previewSo7UIImageCSgvg",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -535,8 +630,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(py)audioURL",
-            "mangledName": "$s17BanubaGenAIVideos7SessionC8audioURL10Foundation0F0Vvp",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)audioURL",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC8audioURL10Foundation0G0Vvp",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
@@ -556,8 +651,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(im)audioURL",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC8audioURL10Foundation0F0Vvg",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)audioURL",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC8audioURL10Foundation0G0Vvg",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -587,8 +682,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(py)resultVideoURL",
-            "mangledName": "$s17BanubaGenAIVideos7SessionC14resultVideoURL10Foundation0G0VSgvp",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)resultVideoURL",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC14resultVideoURL10Foundation0H0VSgvp",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
@@ -616,8 +711,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(im)resultVideoURL",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC14resultVideoURL10Foundation0G0VSgvg",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)resultVideoURL",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC14resultVideoURL10Foundation0H0VSgvg",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -634,13 +729,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "GenerationState",
-                "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(py)state",
-            "mangledName": "$s17BanubaGenAIVideos7SessionC5stateAC15GenerationStateOvp",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(py)state",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC5stateAC15GenerationStateOvp",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
@@ -655,13 +750,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "GenerationState",
-                    "printedName": "BanubaGenAIVideos.Session.GenerationState",
-                    "usr": "s:17BanubaGenAIVideos7SessionC15GenerationStateO"
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession.GenerationState",
+                    "usr": "s:17BanubaGenAIVideos0aB14AIVideoSessionC15GenerationStateO"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(im)state",
-                "mangledName": "$s17BanubaGenAIVideos7SessionC5stateAC15GenerationStateOvg",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)state",
+                "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC5stateAC15GenerationStateOvg",
                 "moduleName": "BanubaGenAIVideos",
                 "declAttributes": [
                   "ObjC"
@@ -677,14 +772,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Session",
-                "printedName": "BanubaGenAIVideos.Session",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session"
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session(im)init",
-            "mangledName": "$s17BanubaGenAIVideos7SessionCACycfc",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession(im)init",
+            "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionCACycfc",
             "moduleName": "BanubaGenAIVideos",
             "overriding": true,
             "implicit": true,
@@ -698,8 +793,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session",
-        "mangledName": "$s17BanubaGenAIVideos7SessionC",
+        "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession",
+        "mangledName": "$s17BanubaGenAIVideos0aB14AIVideoSessionC",
         "moduleName": "BanubaGenAIVideos",
         "declAttributes": [
           "AccessControl",
@@ -779,6 +874,81 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MessageUI",
+        "printedName": "MessageUI",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaLicenseServicingSDK",
+        "printedName": "BanubaLicenseServicingSDK",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
@@ -846,6 +1016,90 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaUtilities",
+        "printedName": "BanubaUtilities",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
@@ -873,6 +1127,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
       },
       {
         "kind": "Import",
@@ -1269,6 +1530,13 @@
       },
       {
         "kind": "Import",
+        "name": "BanubaLicenseServicingSDK",
+        "printedName": "BanubaLicenseServicingSDK",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1360,6 +1628,13 @@
         "kind": "Import",
         "name": "BanubaVideoEditorCore",
         "printedName": "BanubaVideoEditorCore",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaLicenseServicingSDK",
+        "printedName": "BanubaLicenseServicingSDK",
         "declKind": "Import",
         "moduleName": "BanubaGenAIVideos"
       },
@@ -1585,14 +1860,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Session",
-                "printedName": "BanubaGenAIVideos.Session",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session"
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
               }
             ],
             "declKind": "Func",
             "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideosDelegate(im)sdk:didSelect:",
-            "mangledName": "$s17BanubaGenAIVideos0abC8DelegateP3sdk_9didSelectyAA0abC3SDKC_AA7SessionCtF",
+            "mangledName": "$s17BanubaGenAIVideos0abC8DelegateP3sdk_9didSelectyAA0abC3SDKC_AA0aB14AIVideoSessionCtF",
             "moduleName": "BanubaGenAIVideos",
             "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideosDelegate>",
             "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideosDelegate>",
@@ -1653,14 +1928,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Session",
-                "printedName": "BanubaGenAIVideos.Session",
-                "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session"
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
               }
             ],
             "declKind": "Func",
             "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideosDelegate(im)sdk:didShareToFeed:",
-            "mangledName": "$s17BanubaGenAIVideos0abC8DelegateP3sdk_14didShareToFeedyAA0abC3SDKC_AA7SessionCtF",
+            "mangledName": "$s17BanubaGenAIVideos0abC8DelegateP3sdk_14didShareToFeedyAA0abC3SDKC_AA0aB14AIVideoSessionCtF",
             "moduleName": "BanubaGenAIVideos",
             "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideosDelegate>",
             "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideosDelegate>",
@@ -1703,8 +1978,202 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "EntryPoint",
-        "printedName": "EntryPoint",
+        "name": "BanubaGenAIVideoGenerationObserver",
+        "printedName": "BanubaGenAIVideoGenerationObserver",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sdk",
+            "printedName": "sdk(_:generationDidStart:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosSDK",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver(im)sdk:generationDidStart:",
+            "mangledName": "$s17BanubaGenAIVideos0aB25AIVideoGenerationObserverP3sdk_18generationDidStartyAA0abC3SDKC_AA0abD7SessionCtF",
+            "moduleName": "BanubaGenAIVideos",
+            "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sdk",
+            "printedName": "sdk(_:generationDidUpdateProgress:for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosSDK",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver(im)sdk:generationDidUpdateProgress:for:",
+            "mangledName": "$s17BanubaGenAIVideos0aB25AIVideoGenerationObserverP3sdk_27generationDidUpdateProgress3foryAA0abC3SDKC_SfAA0abD7SessionCtF",
+            "moduleName": "BanubaGenAIVideos",
+            "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sdk",
+            "printedName": "sdk(_:generationDidFinish:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosSDK",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver(im)sdk:generationDidFinish:",
+            "mangledName": "$s17BanubaGenAIVideos0aB25AIVideoGenerationObserverP3sdk_19generationDidFinishyAA0abC3SDKC_AA0abD7SessionCtF",
+            "moduleName": "BanubaGenAIVideos",
+            "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sdk",
+            "printedName": "sdk(_:generationDidFailFor:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosSDK",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSError",
+                "printedName": "Foundation.NSError",
+                "usr": "c:objc(cs)NSError"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver(im)sdk:generationDidFailFor:error:",
+            "mangledName": "$s17BanubaGenAIVideos0aB25AIVideoGenerationObserverP3sdk_20generationDidFailFor5erroryAA0abC3SDKC_AA0abD7SessionCSo7NSErrorCtF",
+            "moduleName": "BanubaGenAIVideos",
+            "genericSig": "<τ_0_0 where τ_0_0 : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "sugared_genericSig": "<Self where Self : BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver",
+        "mangledName": "$s17BanubaGenAIVideos0aB25AIVideoGenerationObserverP",
+        "moduleName": "BanubaGenAIVideos",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BanubaGenAIVideosEntryPoint",
+        "printedName": "BanubaGenAIVideosEntryPoint",
         "children": [
           {
             "kind": "Var",
@@ -1714,24 +2183,24 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(BanubaGenAIVideos.EntryPoint.Type) -> BanubaGenAIVideos.EntryPoint",
+                "printedName": "(BanubaGenAIVideos.BanubaGenAIVideosEntryPoint.Type) -> BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "EntryPoint",
-                    "printedName": "BanubaGenAIVideos.EntryPoint",
-                    "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                    "name": "BanubaGenAIVideosEntryPoint",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                    "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
                   },
                   {
                     "kind": "TypeNominal",
                     "name": "Metatype",
-                    "printedName": "BanubaGenAIVideos.EntryPoint.Type",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "EntryPoint",
-                        "printedName": "BanubaGenAIVideos.EntryPoint",
-                        "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                        "name": "BanubaGenAIVideosEntryPoint",
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                        "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
                       }
                     ]
                   }
@@ -1739,8 +2208,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint@EntryPointGallery",
-            "mangledName": "$s17BanubaGenAIVideos10EntryPointO7galleryyA2CmF",
+            "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint@BanubaGenAIVideosEntryPointGallery",
+            "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO7galleryyA2CmF",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "ObjC"
@@ -1755,24 +2224,24 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(BanubaGenAIVideos.EntryPoint.Type) -> BanubaGenAIVideos.EntryPoint",
+                "printedName": "(BanubaGenAIVideos.BanubaGenAIVideosEntryPoint.Type) -> BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "EntryPoint",
-                    "printedName": "BanubaGenAIVideos.EntryPoint",
-                    "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                    "name": "BanubaGenAIVideosEntryPoint",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                    "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
                   },
                   {
                     "kind": "TypeNominal",
                     "name": "Metatype",
-                    "printedName": "BanubaGenAIVideos.EntryPoint.Type",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "EntryPoint",
-                        "printedName": "BanubaGenAIVideos.EntryPoint",
-                        "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                        "name": "BanubaGenAIVideosEntryPoint",
+                        "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                        "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
                       }
                     ]
                   }
@@ -1780,8 +2249,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint@EntryPointGeneratedVideos",
-            "mangledName": "$s17BanubaGenAIVideos10EntryPointO15generatedVideosyA2CmF",
+            "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint@BanubaGenAIVideosEntryPointGeneratedVideos",
+            "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO15generatedVideosyA2CmF",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "ObjC"
@@ -1796,13 +2265,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "BanubaGenAIVideos.EntryPoint?",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "EntryPoint",
-                    "printedName": "BanubaGenAIVideos.EntryPoint",
-                    "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                    "name": "BanubaGenAIVideosEntryPoint",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                    "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
                   }
                 ],
                 "usr": "s:Sq"
@@ -1815,8 +2284,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:17BanubaGenAIVideos10EntryPointO8rawValueACSgSi_tcfc",
-            "mangledName": "$s17BanubaGenAIVideos10EntryPointO8rawValueACSgSi_tcfc",
+            "usr": "s:17BanubaGenAIVideos0abC10EntryPointO8rawValueACSgSi_tcfc",
+            "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO8rawValueACSgSi_tcfc",
             "moduleName": "BanubaGenAIVideos",
             "implicit": true,
             "init_kind": "Designated"
@@ -1834,8 +2303,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:17BanubaGenAIVideos10EntryPointO8rawValueSivp",
-            "mangledName": "$s17BanubaGenAIVideos10EntryPointO8rawValueSivp",
+            "usr": "s:17BanubaGenAIVideos0abC10EntryPointO8rawValueSivp",
+            "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO8rawValueSivp",
             "moduleName": "BanubaGenAIVideos",
             "implicit": true,
             "accessors": [
@@ -1852,8 +2321,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:17BanubaGenAIVideos10EntryPointO8rawValueSivg",
-                "mangledName": "$s17BanubaGenAIVideos10EntryPointO8rawValueSivg",
+                "usr": "s:17BanubaGenAIVideos0abC10EntryPointO8rawValueSivg",
+                "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO8rawValueSivg",
                 "moduleName": "BanubaGenAIVideos",
                 "implicit": true,
                 "accessorKind": "get"
@@ -1862,8 +2331,8 @@
           }
         ],
         "declKind": "Enum",
-        "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint",
-        "mangledName": "$s17BanubaGenAIVideos10EntryPointO",
+        "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint",
+        "mangledName": "$s17BanubaGenAIVideos0abC10EntryPointO",
         "moduleName": "BanubaGenAIVideos",
         "declAttributes": [
           "AccessControl",
@@ -2041,9 +2510,191 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "externalAnalyticsEventListener",
+            "printedName": "externalAnalyticsEventListener",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any BanubaUtilities.ExternalSDKAnalyticsEventsListener)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExternalSDKAnalyticsEventsListener",
+                    "printedName": "any BanubaUtilities.ExternalSDKAnalyticsEventsListener",
+                    "usr": "c:@M@BanubaUtilities@objc(pl)ExternalSDKAnalyticsEventsListener"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(py)externalAnalyticsEventListener",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC30externalAnalyticsEventListener0A9Utilities026ExternalSDKAnalyticsEventsH0_pSgvp",
+            "moduleName": "BanubaGenAIVideos",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BanubaUtilities.ExternalSDKAnalyticsEventsListener)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ExternalSDKAnalyticsEventsListener",
+                        "printedName": "any BanubaUtilities.ExternalSDKAnalyticsEventsListener",
+                        "usr": "c:@M@BanubaUtilities@objc(pl)ExternalSDKAnalyticsEventsListener"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)externalAnalyticsEventListener",
+                "mangledName": "$s17BanubaGenAIVideos0abC3SDKC30externalAnalyticsEventListener0A9Utilities026ExternalSDKAnalyticsEventsH0_pSgvg",
+                "moduleName": "BanubaGenAIVideos",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BanubaUtilities.ExternalSDKAnalyticsEventsListener)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ExternalSDKAnalyticsEventsListener",
+                        "printedName": "any BanubaUtilities.ExternalSDKAnalyticsEventsListener",
+                        "usr": "c:@M@BanubaUtilities@objc(pl)ExternalSDKAnalyticsEventsListener"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)setExternalAnalyticsEventListener:",
+                "mangledName": "$s17BanubaGenAIVideos0abC3SDKC30externalAnalyticsEventListener0A9Utilities026ExternalSDKAnalyticsEventsH0_pSgvs",
+                "moduleName": "BanubaGenAIVideos",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17BanubaGenAIVideos0abC3SDKC30externalAnalyticsEventListener0A9Utilities026ExternalSDKAnalyticsEventsH0_pSgvM",
+                "mangledName": "$s17BanubaGenAIVideos0abC3SDKC30externalAnalyticsEventListener0A9Utilities026ExternalSDKAnalyticsEventsH0_pSgvM",
+                "moduleName": "BanubaGenAIVideos",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(token:genAISecret:externalUserId:)",
+            "printedName": "init(token:configuration:arguments:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BanubaGenAIVideosSDK",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideosSDK",
+                    "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosConfiguration",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosConfiguration",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)initWithToken:configuration:arguments:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC5token13configuration9argumentsACSgSS_AA0abC13ConfigurationCSDySSypGtcfc",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "initWithToken:configuration:arguments:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(token:genAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:arguments:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2083,21 +2734,55 @@
                     "usr": "s:SS"
                   }
                 ],
-                "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)initWithToken:genAISecret:externalUserId:",
-            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC5token11genAISecret14externalUserIdACSgSS_S2SSgtcfc",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)initWithToken:genAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:arguments:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC5token11genAISecret14externalUserId20maxGenerationsPerDay0K29AudioRecordingDurationSeconds9argumentsACSgSS_S2SSgSiSdSDySSypGtcfc",
             "moduleName": "BanubaGenAIVideos",
-            "objc_name": "initWithToken:genAISecret:externalUserId:",
+            "deprecated": true,
+            "objc_name": "initWithToken:genAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:arguments:",
             "declAttributes": [
+              "Convenience",
               "AccessControl",
               "ObjC",
+              "Available",
               "RawDocComment"
             ],
-            "init_kind": "Designated"
+            "init_kind": "Convenience"
           },
           {
             "kind": "Function",
@@ -2168,9 +2853,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "EntryPoint",
-                "printedName": "BanubaGenAIVideos.EntryPoint",
-                "usr": "c:@M@BanubaGenAIVideos@E@EntryPoint"
+                "name": "BanubaGenAIVideosEntryPoint",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosEntryPoint",
+                "usr": "c:@M@BanubaGenAIVideos@E@BanubaGenAIVideosEntryPoint"
               },
               {
                 "kind": "TypeNominal",
@@ -2181,7 +2866,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)getRootControllerWithEntryPoint:isTimelineTarget:",
-            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC17getRootController10entryPoint16isTimelineTargetSo012UINavigationG0CAA05EntryI0O_SbtF",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC17getRootController10entryPoint16isTimelineTargetSo012UINavigationG0CAA0abc5EntryI0O_SbtF",
             "moduleName": "BanubaGenAIVideos",
             "objc_name": "getRootControllerWithEntryPoint:isTimelineTarget:",
             "declAttributes": [
@@ -2271,13 +2956,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[BanubaGenAIVideos.Session]",
+                "printedName": "[BanubaGenAIVideos.BanubaGenAIVideoSession]",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Session",
-                    "printedName": "BanubaGenAIVideos.Session",
-                    "usr": "c:@M@BanubaGenAIVideos@objc(cs)Session"
+                    "name": "BanubaGenAIVideoSession",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                    "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
                   }
                 ],
                 "usr": "s:Sa"
@@ -2285,12 +2970,241 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)getSessions",
-            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC11getSessionsSayAA7SessionCGyF",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC11getSessionsSayAA0aB14AIVideoSessionCGyF",
             "moduleName": "BanubaGenAIVideos",
             "declAttributes": [
               "AccessControl",
               "ObjC",
               "Custom",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createSession",
+            "printedName": "createSession(image:audioFileURL:prompt:observer:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BanubaGenAIVideoSession",
+                    "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                    "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BanubaGenAIVideoGenerationObserver",
+                    "printedName": "any BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver",
+                    "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)createSessionWithImage:audioFileURL:prompt:observer:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC13createSession5image12audioFileURL6prompt8observerAA0ab7AIVideoF0CSgSo7UIImageC_10Foundation0J0VSSAA0abM18GenerationObserver_pSgtF",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "createSessionWithImage:audioFileURL:prompt:observer:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "DiscardableResult",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "deleteSession",
+            "printedName": "deleteSession(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)deleteSession:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC13deleteSessionyyAA0ab7AIVideoF0CF",
+            "moduleName": "BanubaGenAIVideos",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cancelGeneration",
+            "printedName": "cancelGeneration(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)cancelGenerationForSession:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC16cancelGeneration3foryAA0aB14AIVideoSessionC_tF",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "cancelGenerationForSession:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retryGeneration",
+            "printedName": "retryGeneration(for:observer:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideoSession",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideoSession",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideoSession"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BanubaGenAIVideoGenerationObserver",
+                    "printedName": "any BanubaGenAIVideos.BanubaGenAIVideoGenerationObserver",
+                    "usr": "c:@M@BanubaGenAIVideos@objc(pl)BanubaGenAIVideoGenerationObserver"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)retryGenerationForSession:observer:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC15retryGeneration3for8observerSbAA0aB14AIVideoSessionC_AA0abiF8Observer_pSgtF",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "retryGenerationForSession:observer:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "DiscardableResult",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "numberOfFaces",
+            "printedName": "numberOfFaces(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)numberOfFacesInImage:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC13numberOfFaces2inSiSo7UIImageC_tF",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "numberOfFacesInImage:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "containsSingleFace",
+            "printedName": "containsSingleFace(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosSDK(im)containsSingleFaceInImage:",
+            "mangledName": "$s17BanubaGenAIVideos0abC3SDKC18containsSingleFaceySbSo7UIImageCF",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "containsSingleFaceInImage:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -2372,6 +3286,187 @@
         "mangledName": "$s17BanubaGenAIVideos0abC3SDKC",
         "moduleName": "BanubaGenAIVideos",
         "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BanubaGenAIVideosConfiguration",
+        "printedName": "BanubaGenAIVideosConfiguration",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(genAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosConfiguration",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosConfiguration",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration(im)initWithGenAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:",
+            "mangledName": "$s17BanubaGenAIVideos0abC13ConfigurationC11genAISecret14externalUserId20maxGenerationsPerDay0J29AudioRecordingDurationSecondsACSS_SSSgSiSdtcfc",
+            "moduleName": "BanubaGenAIVideos",
+            "objc_name": "initWithGenAISecret:externalUserId:maxGenerationsPerDay:maxAudioRecordingDurationSeconds:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BanubaGenAIVideosConfiguration",
+                "printedName": "BanubaGenAIVideos.BanubaGenAIVideosConfiguration",
+                "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration(im)init",
+            "mangledName": "$s17BanubaGenAIVideos0abC13ConfigurationCACycfc",
+            "moduleName": "BanubaGenAIVideos",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@BanubaGenAIVideos@objc(cs)BanubaGenAIVideosConfiguration",
+        "mangledName": "$s17BanubaGenAIVideos0abC13ConfigurationC",
+        "moduleName": "BanubaGenAIVideos",
+        "objc_name": "BanubaGenAIVideosConfiguration",
+        "declAttributes": [
+          "Final",
           "AccessControl",
           "ObjC",
           "RawDocComment"
@@ -2619,6 +3714,20 @@
       "value": "\"GET\""
     },
     {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/BanubaGenAIVideoSession.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/BanubaGenAIVideoSession.swift",
+      "kind": "IntegerLiteral",
+      "offset": 268,
+      "length": 4,
+      "value": "2"
+    },
+    {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/DailyGenerationLimitService.swift",
       "kind": "StringLiteral",
       "offset": 425,
@@ -2635,70 +3744,77 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/DailyGenerationLimitService.swift",
       "kind": "IntegerLiteral",
-      "offset": 536,
-      "length": 2,
-      "value": "10"
+      "offset": 1559,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/DailyGenerationLimitService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1603,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/DailyGenerationLimitService.swift",
       "kind": "StringLiteral",
-      "offset": 1672,
+      "offset": 1749,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/DailyGenerationLimitService.swift",
       "kind": "StringLiteral",
-      "offset": 1770,
+      "offset": 1847,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "StringLiteral",
-      "offset": 369,
+      "offset": 402,
       "length": 37,
       "value": "\"genAIVideoSingleGenerationCompleted\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "StringLiteral",
-      "offset": 571,
+      "offset": 604,
       "length": 18,
       "value": "\"sessionFolderURL\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "Dictionary",
-      "offset": 931,
+      "offset": 1032,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "Dictionary",
-      "offset": 1002,
+      "offset": 1103,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1191,
+      "offset": 1292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1324,
+      "offset": 1425,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/GenAIVideoSyncManager.swift",
       "kind": "StringLiteral",
-      "offset": 1377,
+      "offset": 1478,
       "length": 26,
       "value": "\"com.banuba.genvideo.sync\""
     },
@@ -2719,133 +3835,119 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "StringLiteral",
-      "offset": 928,
+      "offset": 1381,
       "length": 80,
       "value": "\"https:\/\/video-editor-genai-prod.s3.us-east-1.amazonaws.com\/default-config.json\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1054,
+      "offset": 1507,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1058,
+      "offset": 1511,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1063,
+      "offset": 1516,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1068,
+      "offset": 1521,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/PromptsService.swift",
       "kind": "StringLiteral",
-      "offset": 1112,
+      "offset": 1565,
       "length": 26,
       "value": "\"genai_prompts_cache.json\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
-      "kind": "IntegerLiteral",
-      "offset": 220,
-      "length": 6,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/Session.swift",
-      "kind": "IntegerLiteral",
-      "offset": 236,
-      "length": 4,
-      "value": "2"
-    },
-    {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 514,
+      "offset": 530,
       "length": 21,
       "value": "\"com.banuba.genvideo\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
-      "offset": 624,
+      "offset": 656,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
-      "offset": 2506,
+      "offset": 2618,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
-      "offset": 2622,
+      "offset": 2734,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
-      "offset": 3172,
+      "offset": 3300,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "Array",
-      "offset": 3212,
+      "offset": 3356,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3404,
+      "offset": 3564,
       "length": 101,
       "value": "\"[SessionsManager] Failed to restore session from: \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3494,
+      "offset": 3654,
       "length": 1,
       "value": "\", skipping\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3685,
+      "offset": 3845,
       "length": 94,
       "value": "\"[SessionsManager] Invalid session found: \""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Entities\/SessionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3765,
+      "offset": 3925,
       "length": 1,
       "value": "\", removing...\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Navigation\/GenAIRootCoordinator.swift",
       "kind": "Array",
-      "offset": 911,
+      "offset": 979,
       "length": 2,
       "value": "[]"
     },
@@ -2872,113 +3974,78 @@
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 874,
-      "length": 25,
-      "value": "\"Place your phone closer\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 974,
-      "length": 20,
-      "value": "\"Find a quiet place\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 1094,
-      "length": 23,
-      "value": "\"15 seconds limitation\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 1238,
-      "length": 27,
-      "value": "\"Audio *.mp3, *.wma, *.wav\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 1339,
-      "length": 34,
-      "value": "\"Video *.mp4, *.mov, *.avi, *.mkv\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
-      "kind": "StringLiteral",
-      "offset": 1447,
-      "length": 23,
-      "value": "\"File size up to 50 MB\""
+      "kind": "IntegerLiteral",
+      "offset": 1199,
+      "length": 2,
+      "value": "15"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1631,
+      "offset": 1776,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1734,
+      "offset": 1879,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1943,
+      "offset": 2088,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2143,
+      "offset": 2288,
       "length": 4,
       "value": "13.5"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2185,
+      "offset": 2330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2426,
+      "offset": 2571,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2517,
+      "offset": 2662,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2917,
+      "offset": 3062,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "FloatLiteral",
-      "offset": 3166,
+      "offset": 3311,
       "length": 4,
       "value": "77.5"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/Components\/AudioSourceInstructionsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3260,
+      "offset": 3405,
       "length": 3,
       "value": "-15"
     },
@@ -3139,224 +4206,182 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 336,
-      "length": 4,
-      "value": "15.0"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
-      "kind": "FloatLiteral",
-      "offset": 398,
+      "offset": 344,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 443,
+      "offset": 389,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 448,
+      "offset": 394,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 455,
+      "offset": 401,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 933,
+      "offset": 991,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1025,
+      "offset": 1083,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1253,
-      "length": 27,
-      "value": "\"Choose audio source track\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1300,
-      "length": 49,
-      "value": "\"Your avatar will play the selected audio track.\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1372,
+      "offset": 1431,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1443,
+      "offset": 1502,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1653,
+      "offset": 1712,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2096,
-      "length": 6,
-      "value": "\"Next\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2225,
+      "offset": 2314,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2285,
+      "offset": 2374,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2448,
-      "length": 12,
-      "value": "\"Start Over\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2527,
+      "offset": 2645,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2566,
+      "offset": 2684,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2710,
+      "offset": 2828,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2747,
+      "offset": 2865,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "Array",
-      "offset": 2903,
+      "offset": 3021,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18256,
+      "offset": 18403,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18417,
+      "offset": 18564,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18669,
+      "offset": 18816,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18850,
+      "offset": 18997,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18989,
+      "offset": 19136,
       "length": 4,
       "value": "13.5"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19029,
+      "offset": 19176,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19091,
+      "offset": 19238,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 19169,
-      "length": 17,
-      "value": "\"Start Recording\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19423,
+      "offset": 19599,
       "length": 4,
       "value": "13.5"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19463,
+      "offset": 19639,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/AudioSelection\/AudioSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19525,
+      "offset": 19701,
       "length": 3,
       "value": "0.6"
     },
@@ -3566,168 +4591,217 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1430,
+      "offset": 1539,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2094,
+      "offset": 2203,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
-      "offset": 580,
+      "offset": 635,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 672,
+      "offset": 727,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 941,
+      "offset": 996,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 978,
+      "offset": 1033,
       "length": 5,
       "value": "-0.43"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1091,
-      "length": 17,
-      "value": "\"Generated Video\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1204,
+      "offset": 1280,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1474,
+      "offset": 1550,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1543,
+      "offset": 1619,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1794,
+      "offset": 1870,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1831,
+      "offset": 1907,
       "length": 5,
       "value": "-0.43"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1895,
+      "offset": 1971,
       "length": 4,
       "value": "0.64"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1969,
-      "length": 10,
-      "value": "\"No Items\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2075,
+      "offset": 2181,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2159,
-      "length": 18,
-      "value": "\"Create New Video\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2310,
+      "offset": 2437,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2364,
+      "offset": 2557,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2591,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2627,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2652,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2806,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2838,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2920,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3204,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3249,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3703,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3757,
       "length": 4,
       "value": "0.64"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2407,
+      "offset": 3800,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2489,
+      "offset": 3882,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2508,
-      "length": 20,
-      "value": "\"10 Generation Left\""
+      "offset": 3901,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9922,
+      "offset": 13736,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9958,
+      "offset": 13772,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/GeneratedVideos\/GeneratedVideosViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10004,
+      "offset": 13818,
       "length": 4,
       "value": "12.0"
     },
@@ -3797,114 +4871,86 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "StringLiteral",
-      "offset": 748,
+      "offset": 812,
       "length": 18,
       "value": "\"shared_back_icon\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 840,
+      "offset": 904,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1129,
+      "offset": 1193,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1169,
+      "offset": 1233,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1178,
+      "offset": 1242,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1190,
+      "offset": 1254,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1200,
+      "offset": 1264,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1241,
+      "offset": 1305,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1379,
+      "offset": 1443,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1550,
+      "offset": 1614,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2367,
+      "offset": 2431,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2428,
+      "offset": 2492,
       "length": 2,
       "value": "16"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2520,
-      "length": 16,
-      "value": "\"Save on Device\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2707,
-      "length": 17,
-      "value": "\"Add to Timeline\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2727,
-      "length": 22,
-      "value": "\"Open in Video Editor\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PreviewVideo\/PreviewVideoViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2820,
-      "length": 15,
-      "value": "\"Share to Feed\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptCollectionViewCell.swift",
@@ -3957,134 +5003,113 @@
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1380,
-      "length": 17,
-      "value": "\"Choose a prompt\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1417,
-      "length": 46,
-      "value": "\"Determine the details to generate your video\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1486,
+      "offset": 1502,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1557,
+      "offset": 1573,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1943,
+      "offset": 1959,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1990,
+      "offset": 2006,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2048,
+      "offset": 2064,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2173,
+      "offset": 2189,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2442,
+      "offset": 2458,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2511,
+      "offset": 2527,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2650,
-      "length": 16,
-      "value": "\"Generate Video\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2799,
+      "offset": 2845,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2853,
+      "offset": 2899,
       "length": 4,
       "value": "0.64"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2896,
+      "offset": 2942,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2978,
+      "offset": 3024,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2997,
-      "length": 20,
-      "value": "\"10 Generation Left\""
+      "offset": 3043,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "Array",
-      "offset": 3215,
+      "offset": 3243,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10948,
+      "offset": 11079,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/PromptSelection\/PromptSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10985,
+      "offset": 11116,
       "length": 1,
       "value": "2"
     },
@@ -4126,114 +5151,198 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 779,
+      "offset": 795,
       "length": 8,
       "value": "0x333333"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 808,
+      "offset": 824,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 956,
+      "offset": 972,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1002,
+      "offset": 1018,
       "length": 8,
       "value": "0x1F1F1F"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1031,
+      "offset": 1047,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1214,
-      "length": 52,
-      "value": "\"Your video is on the way, it may take some minutes\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1322,
+      "offset": 1326,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1401,
+      "offset": 1405,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1475,
+      "offset": 1479,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1625,
+      "offset": 1629,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1732,
+      "offset": 1736,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1798,
+      "offset": 1802,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "StringLiteral",
-      "offset": 1898,
-      "length": 8,
-      "value": "\"Cancel\""
+      "offset": 265,
+      "length": 25,
+      "value": "\"CONTACT_US_FLOW_ENABLED\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/Scenes\/UploadingProgress\/UploadingProgressViewController.swift",
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "StringLiteral",
-      "offset": 1975,
-      "length": 16,
-      "value": "\"Return to Home\""
+      "offset": 319,
+      "length": 23,
+      "value": "\"CONTACT_US_EMAIL_SENT\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 17,
+      "value": "\"info@banuba.com\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 405,
+      "length": 39,
+      "value": "\"AI Talking Photos integration request\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 465,
+      "length": 174,
+      "value": "\"Hi Banuba team,\n\nI’m interested in adding AI Talking Photos to my app\/product.\nPlease contact me with integration details, pricing, and next steps.\n\nBest,\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 666,
+      "length": 19,
+      "value": "\"Like the quality?\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 714,
+      "length": 67,
+      "value": "\"Generate AI videos up to 60 minutes long with face & body motion.\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 811,
+      "length": 60,
+      "value": "\"Create realistic AI talking videos\nup to 60 minutes long.\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 12,
+      "value": "\"Contact Us\""
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
+      "length": 12,
+      "value": "\"No, Thanks\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "IntegerLiteral",
-      "offset": 987,
+      "offset": 2932,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
       "kind": "IntegerLiteral",
-      "offset": 996,
+      "offset": 2941,
       "length": 15,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "Dictionary",
+      "offset": 3601,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "Dictionary",
+      "offset": 4322,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideos.swift",
+      "kind": "Dictionary",
+      "offset": 6394,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideosConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 921,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaGenAIVideos\/BanubaGenAIVideos\/BanubaGenAIVideosConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 977,
+      "length": 1,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaGenAIVideos\/IntermediateBuildFilesPath\/BanubaGenAIVideos.build\/Release-iphonesimulator\/BanubaGenAIVideos.build\/DerivedSources\/GeneratedAssetSymbols.swift",

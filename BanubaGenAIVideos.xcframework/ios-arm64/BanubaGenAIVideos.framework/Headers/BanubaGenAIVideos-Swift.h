@@ -306,7 +306,53 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 
 @class BanubaGenAIVideosSDK;
-@class Session;
+@class BanubaGenAIVideoSession;
+@class NSError;
+/// Observer for headless Gen AI video generation.
+SWIFT_PROTOCOL("_TtP17BanubaGenAIVideos34BanubaGenAIVideoGenerationObserver_")
+@protocol BanubaGenAIVideoGenerationObserver
+/// Called when generation starts for a session.
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk generationDidStart:(BanubaGenAIVideoSession * _Nonnull)session;
+/// Called when upload or generation progress changes.
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk generationDidUpdateProgress:(float)progress for:(BanubaGenAIVideoSession * _Nonnull)session;
+/// Called when generation completes and the result video is available on the session.
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk generationDidFinish:(BanubaGenAIVideoSession * _Nonnull)session;
+/// Called when generation fails.
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk generationDidFailFor:(BanubaGenAIVideoSession * _Nonnull)session error:(NSError * _Nonnull)error;
+@end
+
+@class NSString;
+@class NSDate;
+@class UIImage;
+@class NSURL;
+enum GenerationState : NSInteger;
+SWIFT_CLASS("_TtC17BanubaGenAIVideos23BanubaGenAIVideoSession")
+@interface BanubaGenAIVideoSession : NSObject
+@property (nonatomic, readonly, copy) NSString * _Nonnull id;
+@property (nonatomic, readonly, copy) NSDate * _Nonnull createdAt;
+@property (nonatomic, readonly, copy) NSString * _Nonnull prompt;
+@property (nonatomic, readonly, strong) UIImage * _Nullable preview;
+@property (nonatomic, readonly, copy) NSURL * _Nonnull audioURL;
+@property (nonatomic, readonly, copy) NSURL * _Nullable resultVideoURL;
+@property (nonatomic, readonly) enum GenerationState state;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+typedef SWIFT_ENUM(NSInteger, GenerationState, open) {
+  GenerationStateInProgress = 0,
+  GenerationStateFailed = 1,
+  GenerationStateDone = 2,
+};
+
+/// Configuration for Gen AI video generation flow.
+SWIFT_CLASS_NAMED("BanubaGenAIVideosConfiguration")
+@interface BanubaGenAIVideosConfiguration : NSObject
+- (nonnull instancetype)initWithGenAISecret:(NSString * _Nonnull)genAISecret externalUserId:(NSString * _Nullable)externalUserId maxGenerationsPerDay:(NSInteger)maxGenerationsPerDay maxAudioRecordingDurationSeconds:(NSTimeInterval)maxAudioRecordingDurationSeconds OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 /// Delegate for Gen AI Videos SDK lifecycle and user actions.
 SWIFT_PROTOCOL("_TtP17BanubaGenAIVideos25BanubaGenAIVideosDelegate_")
 @protocol BanubaGenAIVideosDelegate
@@ -315,29 +361,49 @@ SWIFT_PROTOCOL("_TtP17BanubaGenAIVideos25BanubaGenAIVideosDelegate_")
 /// Called when user starts a new generation session.
 - (void)didAddNewSession:(BanubaGenAIVideosSDK * _Nonnull)sdk;
 /// Called when user selects a completed video.
-- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didSelect:(Session * _Nonnull)session;
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didSelect:(BanubaGenAIVideoSession * _Nonnull)session;
 /// Called when user requests navigation to home (generated videos list).
 - (void)didRequestHomeScreen:(BanubaGenAIVideosSDK * _Nonnull)sdk;
 /// Called when user shares a video to feed.
-- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didShareToFeed:(Session * _Nonnull)session;
+- (void)sdk:(BanubaGenAIVideosSDK * _Nonnull)sdk didShareToFeed:(BanubaGenAIVideoSession * _Nonnull)session;
 @end
 
-@class NSString;
+/// Entry point for the Gen AI flow.
+typedef SWIFT_ENUM(NSInteger, BanubaGenAIVideosEntryPoint, open) {
+  BanubaGenAIVideosEntryPointGallery = 0,
+  BanubaGenAIVideosEntryPointGeneratedVideos = 1,
+};
+
+@protocol ExternalSDKAnalyticsEventsListener;
 @class UIViewController;
-enum EntryPoint : NSInteger;
 @class UINavigationController;
 /// SDK for Gen AI avatar video generation flow (record voice, pick image, generate video).
 SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 @interface BanubaGenAIVideosSDK : NSObject
 /// Receives lifecycle and user action callbacks.
 @property (nonatomic, weak) id <BanubaGenAIVideosDelegate> _Nullable delegate;
-/// \param token Banuba video editor license token
+/// Analytics events listener which receives Gen AI SDK events as JSON.
+@property (nonatomic, strong) id <ExternalSDKAnalyticsEventsListener> _Nullable externalAnalyticsEventListener;
+/// \param token Banuba video editor license token.
+///
+/// \param configuration Gen AI flow configuration.
+///
+/// \param arguments Optional custom SDK flags for internal integrations.
+///
+- (nullable instancetype)initWithToken:(NSString * _Nonnull)token configuration:(BanubaGenAIVideosConfiguration * _Nonnull)configuration arguments:(NSDictionary<NSString *, id> * _Nonnull)arguments OBJC_DESIGNATED_INITIALIZER;
+/// \param token Banuba video editor license token.
 ///
 /// \param genAISecret Non-empty secret for Gen AI API authentication (e.g. <code>bnb:untrusted_app</code> grant).
 ///
-/// \param externalUserId Optional string identifying the user, embedded in the AI API access token. Omit to skip.
+/// \param externalUserId Optional string identifying the user, embedded in the AI API access token. Pass <code>nil</code> to skip.
 ///
-- (nullable instancetype)initWithToken:(NSString * _Nonnull)token genAISecret:(NSString * _Nonnull)genAISecret externalUserId:(NSString * _Nullable)externalUserId OBJC_DESIGNATED_INITIALIZER;
+/// \param maxGenerationsPerDay Daily cap on generations (local calendar day).
+///
+/// \param maxAudioRecordingDurationSeconds Max voice record / trim length for Gen AI audio step.
+///
+/// \param arguments Optional custom SDK flags.
+///
+- (nullable instancetype)initWithToken:(NSString * _Nonnull)token genAISecret:(NSString * _Nonnull)genAISecret externalUserId:(NSString * _Nullable)externalUserId maxGenerationsPerDay:(NSInteger)maxGenerationsPerDay maxAudioRecordingDurationSeconds:(NSTimeInterval)maxAudioRecordingDurationSeconds arguments:(NSDictionary<NSString *, id> * _Nonnull)arguments SWIFT_DEPRECATED_MSG("Use init(token:configuration:) with BanubaGenAIVideosConfiguration instead.");
 /// Presents the Gen AI flow modally starting from the generated videos list.
 /// \param targetViewController View controller to present from.
 ///
@@ -352,7 +418,7 @@ SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 ///
 /// returns:
 /// Navigation controller containing the Gen AI flow.
-- (UINavigationController * _Nonnull)getRootControllerWithEntryPoint:(enum EntryPoint)entryPoint isTimelineTarget:(BOOL)isTimelineTarget SWIFT_WARN_UNUSED_RESULT;
+- (UINavigationController * _Nonnull)getRootControllerWithEntryPoint:(enum BanubaGenAIVideosEntryPoint)entryPoint isTimelineTarget:(BOOL)isTimelineTarget SWIFT_WARN_UNUSED_RESULT;
 /// Clears root coordinator synchronously on main thread. Safe to call from any thread, including deinit.
 /// Uses sync dispatch when not on main to avoid race where deinit completes before the clear runs.
 - (void)didDismissRootController;
@@ -364,7 +430,36 @@ SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 ///
 /// returns:
 /// Array of sessions.
-- (NSArray<Session *> * _Nonnull)getSessions SWIFT_WARN_UNUSED_RESULT;
+- (NSArray<BanubaGenAIVideoSession *> * _Nonnull)getSessions SWIFT_WARN_UNUSED_RESULT;
+/// Creates a generation session from provided media and starts generation.
+/// \param image Source image for Gen AI video.
+///
+/// \param audioFileURL Local audio file URL.
+///
+/// \param prompt Text prompt used for video generation.
+///
+/// \param observer Optional observer for progress and completion callbacks.
+///
+///
+/// returns:
+/// Created session, or <code>nil</code> when local session creation fails.
+- (BanubaGenAIVideoSession * _Nullable)createSessionWithImage:(UIImage * _Nonnull)image audioFileURL:(NSURL * _Nonnull)audioFileURL prompt:(NSString * _Nonnull)prompt observer:(id <BanubaGenAIVideoGenerationObserver> _Nullable)observer;
+/// Deletes a local session and cancels generation if it is still active.
+- (void)deleteSession:(BanubaGenAIVideoSession * _Nonnull)session;
+/// Cancels generation for the provided session.
+- (void)cancelGenerationForSession:(BanubaGenAIVideoSession * _Nonnull)session;
+/// Retries generation for an existing session.
+///
+/// returns:
+/// <code>true</code> when retry started, otherwise <code>false</code>.
+- (BOOL)retryGenerationForSession:(BanubaGenAIVideoSession * _Nonnull)session observer:(id <BanubaGenAIVideoGenerationObserver> _Nullable)observer;
+/// Returns number of faces detected in the image.
+///
+/// returns:
+/// Face count, or <code>-1</code> when face recognition framework is unavailable.
+- (NSInteger)numberOfFacesInImage:(UIImage * _Nonnull)image SWIFT_WARN_UNUSED_RESULT;
+/// Returns whether image contains exactly one detected face.
+- (BOOL)containsSingleFaceInImage:(UIImage * _Nonnull)image SWIFT_WARN_UNUSED_RESULT;
 /// Returns whether there are active generation operations (upload or polling).
 ///
 /// returns:
@@ -375,31 +470,6 @@ SWIFT_CLASS("_TtC17BanubaGenAIVideos20BanubaGenAIVideosSDK")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
-
-/// Entry point for the Gen AI flow.
-typedef SWIFT_ENUM(NSInteger, EntryPoint, open) {
-  EntryPointGallery = 0,
-  EntryPointGeneratedVideos = 1,
-};
-
-@class UIImage;
-@class NSURL;
-enum GenerationState : NSInteger;
-SWIFT_CLASS("_TtC17BanubaGenAIVideos7Session")
-@interface Session : NSObject
-@property (nonatomic, readonly, strong) UIImage * _Nullable preview;
-@property (nonatomic, readonly, copy) NSURL * _Nonnull audioURL;
-@property (nonatomic, readonly, copy) NSURL * _Nullable resultVideoURL;
-@property (nonatomic, readonly) enum GenerationState state;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-typedef SWIFT_ENUM(NSInteger, GenerationState, open) {
-  GenerationStateInProgress = 0,
-  GenerationStateFailed = 1,
-  GenerationStateDone = 2,
-};
 
 #endif
 #if __has_attribute(external_source_symbol)
