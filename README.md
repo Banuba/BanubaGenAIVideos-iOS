@@ -16,8 +16,8 @@ The underlying API supports audio in any language and has no hard limits on outp
 
 ## Requirements
 
-- iOS 13.0+
-- Xcode 15+
+- iOS 15.0+
+- Xcode 26.0+
 - Swift 5.9+
 - A Banuba trial token (free — request below)
 
@@ -43,4 +43,3 @@ SDK technical docs: [docs.banuba.com](https://docs.banuba.com) (request access f
 
 For integration help or to request the AI Talking Photo SDK trial, contact [www.banuba.com/support](https://www.banuba.com/support).
 
-> ⚠ Fact-check needed before publishing: confirm minimum iOS version, Xcode/Swift versions, and the exact SDK package name with the iOS team. The product positioning above is pulled from www.banuba.com/ai-talking-photo-api and the AI Talking Photo case study in the docs folder.
