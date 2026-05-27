@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/BanubaGenAIVideos</key>
 		<data>
-		MVGSizbu5R7YfGzeO/bJQK0k5AA=
+		nLYQzf3N62dqu1KfhhUc5N9Xro8=
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Info.plist</key>
 		<data>
-		vSFAVSg1uNu9qZhbW3PPbKlJbUg=
+		oJcXPSL/lWW4LjgZ60HNh6Q4ANI=
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MAhCuLE/Kb/qoM9ywetcER9+KL8=
+		Y6LmV7MLAlKwGEfDaGRJ+u+eY+0=
 		</data>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		YEjV4/mydl91QOOpBaVabzcUBY4=
+		GM7nuBsZ1nSI+/gpJm6tLCfvx14=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<data>
-		awGy0td0cugvwvA7KhAg2djxMSw=
+		GGy9iajEfEaMr/W5nnwWwx4Gv38=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<data>
-		mw7WhDss6Qz+MWba/wHt3+pNqmY=
+		UWjLPUQPZUMP6yPCHIx7NZHvzHw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Assets.car</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/BanubaGenAIVideos</key>
 		<data>
-		zpnw730luJg7D3Gie6U+tawHxeg=
+		yUyyxV5QW7S6dS3WLo5/eWU1n5I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Info.plist</key>
 		<data>
-		7doUHes6SAZF+M3n8VDyi0jKdaM=
+		iXVQY51EKkwlcfyyjcNaDZV1sH8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		RsLclUrGNTsCb/5y19BlS0HqZIM=
+		VgQscA6l2+LH2386xBHC65phvXI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RsLclUrGNTsCb/5y19BlS0HqZIM=
+		VgQscA6l2+LH2386xBHC65phvXI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -130,23 +130,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/_CodeSignature/CodeResources</key>
 		<data>
-		GQeIFMQAO5K6gVziLa9ccnmQ5nc=
+		nOhbxWW9DyrJhUJcmhTDUdrYuSc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		YEjV4/mydl91QOOpBaVabzcUBY4=
+		GM7nuBsZ1nSI+/gpJm6tLCfvx14=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<data>
-		7vq94Ao+4soSbOKypUUQN2SCIjg=
+		cZjbD5N7szFz1Kn7Y3dXeARz7iI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<data>
-		A5jK/5DoXBNPuooll3xIr/KHDwo=
+		P+LgKeNFaPDaXupX6YM+DU8S3g0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/x86_64/BanubaGenAIVideos.yml</key>
 		<data>
-		THB9rnfgBo/2sAoqo86PvkegqOo=
+		jDUSk43HJQLXCirR8zkAf5E77Q8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3+kBKM6wIyZChvdxolWtBbISQ2GLqGGSjiaC0vKIWk=
+			y7wrbQ8WXm1J2M6HuEw4VFXDVSLsy1peyjgi2dD7gCA=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
@@ -190,14 +190,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFbUtsD4xCIi9O9hQWXw2GQy2SID3qwzeIIG8GmO33Q=
+			qu3xsaZtxDmkXCLiIwQt3F/d3B3UMjbOqYYJuld8K38=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6IWruMogjOBEt4/x27JkRj3CoicgOsQihbWO9d3a2hM=
+			2/phpgZSqW8tbQe9o1p38+nWa7KSrM4zBIk53fh5N4E=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -239,21 +239,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mxLJmDeRCyLice2nzLXtRfmvPpKhQLVdWSFbkheDg4=
+			SABQuSkMSdIaWtvU4LJUYIvx9go8+M6sViy2pXz69AI=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZybWlB2yTjPvq40I3QlJ73zciIfh1S48Ivlgye/hWo=
+			p9+XNZxmRNlG6c1PWPlbQI2PtDtFKUH8G2BGclsEy0w=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXC7e1J3UmkFjJ86JdJ/gZuSHNHQfoYi57GDjtKhPi0=
+			Jq16tTpndbnr8LEwgqxhCxK9ZTj1Vn1vSkUFKVacoI8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Assets.car</key>
@@ -267,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WYB6r2DzDS4yvd6L8bdPxe9aUuaFpGAwTw/jMj3fO0M=
+			K7AVkZMQ8aKiLQ0c78sFj+7hfxaz2ytyhaRP0ebVB9k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Headers/BanubaGenAIVideos-Swift.h</key>
@@ -295,14 +295,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/qCFjANP+C+JZgwtV5ct78x7sEF1abtOp+fFrppPHEI=
+			O3ylfQKcwZC1QAaDBPcMU/T7+fWFMsoD+hoAWbB8fYw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqN0NOEBPqDAc5Xj3TVzwCWgcoe4Ken1+vmrE2d5dgs=
+			lPWgkgask854Nc7mZCQ5LYry8bN2STHYtgt8FU0XpC8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -330,7 +330,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqN0NOEBPqDAc5Xj3TVzwCWgcoe4Ken1+vmrE2d5dgs=
+			lPWgkgask854Nc7mZCQ5LYry8bN2STHYtgt8FU0XpC8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaGenAIVideos.framework/Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -372,35 +372,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VjISgd6IYGd4LGZlICp1cUkdMLyyufohHEIcHbvuYF0=
+			ceCbOI3Z5+1mbTh9tTGG4lwQbB/YiDzgmxMYpPvPlUE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mxLJmDeRCyLice2nzLXtRfmvPpKhQLVdWSFbkheDg4=
+			SABQuSkMSdIaWtvU4LJUYIvx9go8+M6sViy2pXz69AI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/DWARF/BanubaGenAIVideos</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GhvIOd0KcPr5zPzrMpsqd+Q0XPJXFaUDd+A6lVjgUlI=
+			wLIyX+JfKXniwU5i2OFUR5U6bJYwimejnQeM8RiZF/A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaGenAIVideos.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PhxrzIAlFVA6bg/1qsrE0u8zGxC5lpFzTXFkk3k4jmA=
+			ffQp+nPebCJcH7tn69wMbOMrMcN5wSnqE7rxBQrgWOg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaGenAIVideos.framework.dSYM/Contents/Resources/Relocations/x86_64/BanubaGenAIVideos.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iw7C+HjRn2Bhesk8k62vzrsPTJjjIIbo2oXbBceVKug=
+			zzdW8/tgVtSHPUeE+wKyUmYBGCIpQHt+Qo0RMqDITo0=
 			</data>
 		</dict>
 	</dict>

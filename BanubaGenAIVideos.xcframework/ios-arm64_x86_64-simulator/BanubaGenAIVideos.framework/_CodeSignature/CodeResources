@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7doUHes6SAZF+M3n8VDyi0jKdaM=
+		iXVQY51EKkwlcfyyjcNaDZV1sH8=
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		RsLclUrGNTsCb/5y19BlS0HqZIM=
+		VgQscA6l2+LH2386xBHC65phvXI=
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gMyIWkfTaRYfV1WAnz2B4eEdQpA=
+		aQUQrcT8m+btvnTD5SzoDFZ0Pj8=
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RsLclUrGNTsCb/5y19BlS0HqZIM=
+		VgQscA6l2+LH2386xBHC65phvXI=
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XIHCzrc0PyB7hoGZBx3BU8tO71c=
+		tpCSz5GJyf6rxsgT52ns/3hh7XI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqN0NOEBPqDAc5Xj3TVzwCWgcoe4Ken1+vmrE2d5dgs=
+			lPWgkgask854Nc7mZCQ5LYry8bN2STHYtgt8FU0XpC8=
 			</data>
 		</dict>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPW/5kDcAOvDn89/6ptoPhUuC+QQYaUc+zSFSn8a8pg=
+			qQOsW0YqDoCdfbhJT25CUkILFnffPkof0z+pi4Gf79o=
 			</data>
 		</dict>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqN0NOEBPqDAc5Xj3TVzwCWgcoe4Ken1+vmrE2d5dgs=
+			lPWgkgask854Nc7mZCQ5LYry8bN2STHYtgt8FU0XpC8=
 			</data>
 		</dict>
 		<key>Modules/BanubaGenAIVideos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q2p1buXTexSjTxsROUHHIXICTDFu4B5YKPlHkDpzHDA=
+			4+SOXy7paD7MimUg2UHh0oU4oCkkLy8W8NrxBmzdE5k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

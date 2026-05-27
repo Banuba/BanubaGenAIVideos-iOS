@@ -118,13 +118,20 @@
       },
       {
         "kind": "Import",
-        "name": "BanubaLicenseServicingSDK",
-        "printedName": "BanubaLicenseServicingSDK",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaGenAIVideos",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "BanubaLicenseServicingSDK",
+        "printedName": "BanubaLicenseServicingSDK",
+        "declKind": "Import",
+        "moduleName": "BanubaGenAIVideos"
       },
       {
         "kind": "Import",
