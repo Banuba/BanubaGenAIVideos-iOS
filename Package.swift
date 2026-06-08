@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let version: Version = "1.52.1"
+let version: Version = "1.53.0-beta.0"
 
 let package = Package(
   name: "BanubaGenAIVideos",
@@ -40,7 +40,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BanubaGenAIVideos",
-      path: "BanubaGenAIVideos.xcframework"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.53.0-beta.0/BanubaGenAIVideos-1.53.0-beta.0.xcframework.zip",
+      checksum: "a3b36a5e6eb62975763e50364c8d4a23a5fe88d245b1bc43c9f260aeacb84a0c"
     )
   ]
 )
