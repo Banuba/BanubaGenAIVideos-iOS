@@ -2,9 +2,9 @@
 
 import PackageDescription
 
-let banubaUtilsVersionRange: Range<Version> = "1.53.0-beta.0"..<"1.53.99"
-let banubaCoreVersionRange: Range<Version> = "1.53.0-beta.0"..<"1.53.99"
-let banubaLicenseServicingVersionRange: Range<Version> = "1.53.0-beta.0"..<"1.53.99"
+let banubaUtilsVersionRange: Range<Version> = "1.54.0"..<"1.59.99"
+let banubaCoreVersionRange: Range<Version> = "1.54.0"..<"1.59.99"
+let banubaLicenseServicingVersionRange: Range<Version> = "1.54.0"..<"1.59.99"
 
 let package = Package(
   name: "BanubaGenAIVideos",
@@ -40,17 +40,10 @@ let package = Package(
       ],
       path: "BanubaGenAIVideosTarget"
     ),
-    // Local development uses the path-based binaryTarget below.
-    // Release flow (fastlane patch_package_swift_for_nexus) replaces it in the GitHub distribution repo with:
-    // .binaryTarget(
-    //   name: "BanubaGenAIVideos",
-    //   url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/{version}/BanubaGenAIVideos-{version}.xcframework.zip",
-    //   checksum: "{computed at release}"
-    // )
     .binaryTarget(
       name: "BanubaGenAIVideos",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.53.0/BanubaGenAIVideos-1.53.0.xcframework.zip",
-      checksum: "0f80a063438053acbf462f7c46307b2d8d4cd26ce4e26a084145ee9d0137c3b7"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.54.0/BanubaGenAIVideos-1.54.0.xcframework.zip",
+      checksum: "5416b9ca9e731b3ab36f3e176669bbdb68a7ed4298bcd3750b4af20001908691"
     )
   ]
 )
