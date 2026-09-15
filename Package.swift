@@ -45,8 +45,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BanubaGenAIVideos",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.54.2/BanubaGenAIVideos-1.54.2.xcframework.zip",
-      checksum: "876a5a3ebd7b6e8db5bd63f164fefb92c5c55fc6a81963987f8dd90bbc6f0703"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.54.3/BanubaGenAIVideos-1.54.3.xcframework.zip",
+      checksum: "e1f4df047b3fd048cac86651def6ebb1866494be15cbcc25a746d4c0f488a195"
     )
   ]
 )
