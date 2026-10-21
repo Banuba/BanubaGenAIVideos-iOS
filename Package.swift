@@ -3,9 +3,9 @@
 import PackageDescription
 
 let designSystemVersionRange: Range<Version> = "1.0.4"..<"2.0.0"
-let banubaUtilsVersionRange: Range<Version> = "1.54.5"..<"1.59.99"
-let banubaCoreVersionRange: Range<Version> = "1.54.5"..<"1.59.99"
-let banubaLicenseServicingVersionRange: Range<Version> = "1.54.5"..<"1.59.99"
+let banubaUtilsVersionRange: Range<Version> = "0.54.5-beta.0"..<"1.59.99"
+let banubaCoreVersionRange: Range<Version> = "0.54.5-beta.0"..<"1.59.99"
+let banubaLicenseServicingVersionRange: Range<Version> = "0.54.5-beta.0"..<"1.59.99"
 
 let package = Package(
   name: "BanubaGenAIVideos",
@@ -45,8 +45,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BanubaGenAIVideos",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/1.54.5/BanubaGenAIVideos-1.54.5.xcframework.zip",
-      checksum: "e0ec6ecb5089afa52ae7adc719569933b620820541661d3662fcd22915e1c709"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaGenAIVideos/0.54.5-beta.0/BanubaGenAIVideos-0.54.5-beta.0.xcframework.zip",
+      checksum: "060f8775d1d2ecde98249e4671223585c857ff5ae09abec9ae9cdea10c2173e9"
     )
   ]
 )
